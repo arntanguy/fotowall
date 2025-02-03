@@ -14371,8 +14371,8 @@ var ___get_exception_message = Module["___get_exception_message"] = createExport
 var ___cxa_can_catch = createExportWrapper("__cxa_can_catch");
 /** @type {function(...*):?} */
 var ___cxa_is_pointer_type = createExportWrapper("__cxa_is_pointer_type");
-var ___start_em_js = Module['___start_em_js'] = 9821692;
-var ___stop_em_js = Module['___stop_em_js'] = 9822174;
+var ___start_em_js = Module['___start_em_js'] = 9821756;
+var ___stop_em_js = Module['___stop_em_js'] = 9822238;
 function invoke_vii(index,a1,a2) {
   var sp = stackSave();
   try {
